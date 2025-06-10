@@ -60,6 +60,10 @@ To run the game locally:
 ### Heal Button
 ![When pressing the healing button](assets/screenshots/healButton.png)
 
+# Online Version
+
+- You can view the project here: https://george3211.github.io/theMonsterKiller/
+
 ## 📄 License
 
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
