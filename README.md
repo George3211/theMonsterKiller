@@ -22,15 +22,15 @@ The project demonstrates DOM manipulation, event handling, game state management
 
 /theMonsterKiller
 
-├── index.html                  # Main HTML file that loads the game
-├── assets/                     # Contains all static resources
-│   ├── scripts/                # JavaScript files
-│   │   ├── app.js              # Core game logic
-│   │   └── vendor.js           # Utility or third-party helper functions
-│   └── styles/                 # CSS styles
-│       └── app.css             # Main stylesheet for the game UI
+├── index.html
+├── assets/
+│   ├── scripts/
+│   │   ├── app.js
+│   │   └── vendor.js
+│   └── styles/
+│       └── app.css
 ├── LICENSE             
-└── README.md                   # Project documentation
+└── README.md
 
 ## 🧩 Getting Started
 
